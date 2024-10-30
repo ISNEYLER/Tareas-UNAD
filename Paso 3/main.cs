@@ -1,4 +1,7 @@
-
+/* Isneyler Mosquera Preciado
+ Grupo: 93
+ Ingeniería Electrónica
+ Código Fuente: Autoría propia */
 
 //En este array se guardaran todos los numeros ingresados
 int[] numeros = new int[8];
